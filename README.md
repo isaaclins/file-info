@@ -7,8 +7,10 @@ This repository contains a file named "main.bat" that can be used for file analy
 To use this file, follow these steps:
 
 1. Download the repository by running the following command:
-`git clone https://github.com/isaaclins/file-info.git`
+<hr></hr>
 
+  ``git clone https://github.com/isaaclins/file-info.git``
+<hr></hr>
 2. Drag and drop a file into the "main.bat" file.
 
 ## Functionality
