@@ -15,10 +15,8 @@ if "%FILE_PATH%"=="" (
         echo Last Modified Date: %%~tA
         echo Stored in: %FILE_PATH%
     )
-    echo -----------------
+
     echo.
-    echo Calculating hashes...
-    
     echo SHA-1 HASH:
     certUtil -hashfile "%FILE_PATH%" SHA1 | findstr /i /v "SHA1" | findstr /v "CertUtil:"
     
