@@ -34,3 +34,6 @@ Please note that this file is specific to the Windows operating system.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2Ffile-info%2F&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117)
